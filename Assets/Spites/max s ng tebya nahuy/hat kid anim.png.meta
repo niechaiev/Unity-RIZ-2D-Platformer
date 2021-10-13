@@ -1,0 +1,1531 @@
+fileFormatVersion: 2
+guid: 8f72dab85dc189d43a664d73109b28a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1695434504859475040
+    second: hat kid anim_0
+  - first:
+      213: 5351802379649606323
+    second: hat kid anim_1
+  - first:
+      213: -9010660453699824689
+    second: hat kid anim_2
+  - first:
+      213: -4702720995647061982
+    second: hat kid anim_3
+  - first:
+      213: 2016861300423659367
+    second: hat kid anim_4
+  - first:
+      213: 3958011624620584455
+    second: hat kid anim_5
+  - first:
+      213: -4860496183413473773
+    second: hat kid anim_6
+  - first:
+      213: -3729061652309830303
+    second: hat kid anim_7
+  - first:
+      213: -8297220532224812997
+    second: hat kid anim_8
+  - first:
+      213: 3674194634551090096
+    second: hat kid anim_9
+  - first:
+      213: 2858344192515871977
+    second: hat kid anim_10
+  - first:
+      213: -1821950254272877191
+    second: hat kid anim_11
+  - first:
+      213: 7805361674640850778
+    second: hat kid anim_12
+  - first:
+      213: -1126273284399661921
+    second: hat kid anim_13
+  - first:
+      213: 2516714197544561509
+    second: hat kid anim_14
+  - first:
+      213: -2142134103883455301
+    second: hat kid anim_15
+  - first:
+      213: -3524716817386254647
+    second: hat kid anim_16
+  - first:
+      213: 5139715422274812225
+    second: hat kid anim_17
+  - first:
+      213: -8234682346913017457
+    second: hat kid anim_18
+  - first:
+      213: -4637333671023332098
+    second: hat kid anim_19
+  - first:
+      213: -5316329444513465083
+    second: hat kid anim_20
+  - first:
+      213: 2073584731907031626
+    second: hat kid anim_21
+  - first:
+      213: -6779476520689477911
+    second: hat kid anim_22
+  - first:
+      213: -1011022529518628798
+    second: hat kid anim_23
+  - first:
+      213: -1942581480276112014
+    second: hat kid anim_24
+  - first:
+      213: 6949104679977920128
+    second: hat kid anim_25
+  - first:
+      213: -1715387168601408033
+    second: hat kid anim_26
+  - first:
+      213: 6670740536974632129
+    second: hat kid anim_27
+  - first:
+      213: -5159419949761446845
+    second: hat kid anim_28
+  - first:
+      213: 5058179135985596623
+    second: hat kid anim_29
+  - first:
+      213: -7823939430919678674
+    second: hat kid anim_30
+  - first:
+      213: -6768993890647607930
+    second: hat kid anim_31
+  - first:
+      213: -2537841823676767447
+    second: hat kid anim_32
+  - first:
+      213: 6541026357182295936
+    second: hat kid anim_33
+  - first:
+      213: 2191047888918784134
+    second: hat kid anim_34
+  - first:
+      213: -8866014889705917695
+    second: hat kid anim_35
+  - first:
+      213: -835040357540418485
+    second: hat kid anim_36
+  - first:
+      213: -1063375038368193319
+    second: hat kid anim_37
+  - first:
+      213: -7288300468689296782
+    second: hat kid anim_38
+  - first:
+      213: -8238403043926509438
+    second: hat kid anim_39
+  - first:
+      213: -4682769524849083068
+    second: hat kid anim_40
+  - first:
+      213: -3260101981435807838
+    second: hat kid anim_41
+  - first:
+      213: -8763847556157860355
+    second: hat kid anim_42
+  - first:
+      213: -206572100647142564
+    second: hat kid anim_43
+  - first:
+      213: -7802646942695547620
+    second: hat kid anim_44
+  - first:
+      213: 2772120016006857810
+    second: hat kid anim_45
+  - first:
+      213: -1723823434337181526
+    second: hat kid anim_46
+  - first:
+      213: -7107226293905194841
+    second: hat kid anim_47
+  - first:
+      213: -529602259574889580
+    second: hat kid anim_48
+  - first:
+      213: -5423367479809368828
+    second: hat kid anim_49
+  - first:
+      213: -4959292199960670649
+    second: hat kid anim_50
+  - first:
+      213: -4962306097222931191
+    second: hat kid anim_51
+  - first:
+      213: 146184402446465287
+    second: hat kid anim_52
+  - first:
+      213: 2867185229441987182
+    second: hat kid anim_53
+  - first:
+      213: -6046973034848022106
+    second: hat kid anim_54
+  - first:
+      213: -1868595298524790405
+    second: hat kid anim_55
+  - first:
+      213: 2791257799977614265
+    second: hat kid anim_56
+  - first:
+      213: -6517308341030925489
+    second: hat kid anim_57
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat kid anim_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2331
+        width: 113
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e59d1c2aa5a3d49a759272e899314c
+      internalID: 1695434504859475040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2331
+        width: 114
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d5f931503905e40a433857dad7b4c0
+      internalID: 5351802379649606323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_2
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 2331
+        width: 113
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4696fa2c79834c43a3eb1d4a2067d38
+      internalID: -9010660453699824689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2331
+        width: 110
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a154fdb118288a4b8b54a3483255cc3
+      internalID: -4702720995647061982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_4
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 2331
+        width: 108
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8a2ab7e0d2d52438853d63cab937bf
+      internalID: 2016861300423659367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2120
+        width: 105
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28aa9866ec5d5048a023dbbaad2b991
+      internalID: 3958011624620584455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2120
+        width: 103
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d28109a08f4cf4fb6fb3740c98c764
+      internalID: -4860496183413473773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2118
+        width: 100
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bec1fb1b968df49acfd0e17f2e08ad
+      internalID: -3729061652309830303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_8
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 2117
+        width: 99
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7c28a3e5025624ab242843ee6ae30c
+      internalID: -8297220532224812997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_9
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2117
+        width: 98
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8bbab2c549fdd4d8c85f09e9a808fc
+      internalID: 3674194634551090096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1907
+        width: 100
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c91587f54996cf4487913d4e021b3bc
+      internalID: 2858344192515871977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1907
+        width: 105
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24d9fb9a63c0d14d9dc9ed190a43dce
+      internalID: -1821950254272877191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1907
+        width: 105
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c9e1a4a8c92754e8e5af086180cdae
+      internalID: 7805361674640850778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_13
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1908
+        width: 103
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf77fda07aa29d439ca480f46b2eeb1
+      internalID: -1126273284399661921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_14
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1908
+        width: 98
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174c9146aa07ae145af013c24f16d0e1
+      internalID: 2516714197544561509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1698
+        width: 99
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f613a822a11670342965da569c47533c
+      internalID: -2142134103883455301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_16
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1698
+        width: 99
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6220fd461aee3914694664c57c1b16d9
+      internalID: -3524716817386254647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_17
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1698
+        width: 99
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0105b3199eca6a4eab84c19727e7b3b
+      internalID: 5139715422274812225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_18
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1698
+        width: 99
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaf9c471a210dd4cb6292b4a1b06547
+      internalID: -8234682346913017457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_19
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1698
+        width: 98
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6790babea63614b4e9d694691bccbe88
+      internalID: -4637333671023332098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1487
+        width: 99
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93f4c3fe324a9d44a32848b1ace6427
+      internalID: -5316329444513465083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_21
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1487
+        width: 99
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a220425ba1de042a16613f8fa05ba9
+      internalID: 2073584731907031626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_22
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1487
+        width: 99
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f5e5604eaeb8848bc720df1bc9458d
+      internalID: -6779476520689477911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_23
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1487
+        width: 97
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85500d4590754cd4d98d78602516a2e5
+      internalID: -1011022529518628798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_24
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1487
+        width: 98
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f5311a34f14934eaf1c9b389384162
+      internalID: -1942581480276112014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1275
+        width: 99
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c3f2639c7abd443b6658ff9961334f
+      internalID: 6949104679977920128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_26
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1275
+        width: 99
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf90d7693191ebe40b249af8d7c991db
+      internalID: -1715387168601408033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1275
+        width: 100
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d0449909cb9154bb09f676d55b48aa
+      internalID: 6670740536974632129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_28
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1275
+        width: 100
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0add200b43e2ae840a3e1b083e40599d
+      internalID: -5159419949761446845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_29
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1275
+        width: 101
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138e23c04552fa64fbfacacebecfe31d
+      internalID: 5058179135985596623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1065
+        width: 103
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50ad51896751a442a999b931de6648e
+      internalID: -7823939430919678674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_31
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1065
+        width: 104
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b012b13a0cf7fe4d8c718de69e08016
+      internalID: -6768993890647607930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_32
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1065
+        width: 104
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4fa495ef53b7e4781852e5337064c4
+      internalID: -2537841823676767447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_33
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1065
+        width: 110
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c2c7c378b89ee4398eaec54976d0d3
+      internalID: 6541026357182295936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_34
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1065
+        width: 111
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b51c15d5e92fa544b942a8b1d96d3d1
+      internalID: 2191047888918784134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_35
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 854
+        width: 116
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a236754136690240a6f262918ef5e6f
+      internalID: -8866014889705917695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 854
+        width: 123
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75066eeaeb205a841b167f8212282c18
+      internalID: -835040357540418485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 854
+        width: 126
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caf1d0ff16b44a4a9e2aa118c291772
+      internalID: -1063375038368193319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_38
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 852
+        width: 130
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec12724e778af341a009a9dc0a1e2b8
+      internalID: -7288300468689296782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_39
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 852
+        width: 135
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950ae9b91cb687242b7e553730df9e05
+      internalID: -8238403043926509438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 641
+        width: 136
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcf045f80af05643995c2199f79cb51
+      internalID: -4682769524849083068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_41
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 641
+        width: 138
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58505b1ed70de1c469d451d3750fa47e
+      internalID: -3260101981435807838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_42
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 642
+        width: 137
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6d197e503c57a40bcd328dfeb1c94d
+      internalID: -8763847556157860355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_43
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 642
+        width: 137
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54123a83dbc6d3489f10053ab2d8539
+      internalID: -206572100647142564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_44
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 642
+        width: 135
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eae1f35b0b7c964da33d518c016d4e1
+      internalID: -7802646942695547620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 432
+        width: 134
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160c65e3a599a8a419899f3d4fc9a201
+      internalID: 2772120016006857810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_46
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 432
+        width: 132
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682446cdbebc9cf4aab50c94eacd2040
+      internalID: -1723823434337181526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_47
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 432
+        width: 132
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3a4cad884e3924e8ec6fa8b15100ef
+      internalID: -7107226293905194841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_48
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 432
+        width: 133
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a783bfa78a10d0e4eaf6ea3979e033cd
+      internalID: -529602259574889580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_49
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 432
+        width: 132
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239c07ac26e766e4da9c9f5339706aa0
+      internalID: -5423367479809368828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_50
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 222
+        width: 132
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ca360d0fc3883468c4afd44ba08397
+      internalID: -4959292199960670649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_51
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 222
+        width: 134
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823ff8968033e274992b7fca58d31fb9
+      internalID: -4962306097222931191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_52
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 222
+        width: 132
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515a3d30ffb39f244a0e306378f48936
+      internalID: 146184402446465287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_53
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 222
+        width: 134
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6245e5ad27c598b4cae6e432e6cf03cc
+      internalID: 2867185229441987182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_54
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 222
+        width: 133
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5957d0401cd118b44a671ca7c64bdb3c
+      internalID: -6046973034848022106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_55
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 11
+        width: 132
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41757a637f453e45ac17d7137467dad
+      internalID: -1868595298524790405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_56
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 11
+        width: 132
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5325b5d09ceceb41b9a43aefc86f0de
+      internalID: 2791257799977614265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat kid anim_57
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 9
+        width: 132
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89048d3ba5d845248ae25a8476858afc
+      internalID: -6517308341030925489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

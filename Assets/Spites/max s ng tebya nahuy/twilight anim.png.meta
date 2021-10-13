@@ -1,0 +1,1291 @@
+fileFormatVersion: 2
+guid: 7bfa9d6188f2ede41b428dcc3c7bb603
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4529552741359364289
+    second: twilight anim_0
+  - first:
+      213: -6771903635455949557
+    second: twilight anim_1
+  - first:
+      213: 7322284716891061610
+    second: twilight anim_2
+  - first:
+      213: 4668514247474195748
+    second: twilight anim_3
+  - first:
+      213: 8756416208055193502
+    second: twilight anim_4
+  - first:
+      213: -4243740287890118705
+    second: twilight anim_5
+  - first:
+      213: 134765826562914270
+    second: twilight anim_6
+  - first:
+      213: 4471612605144995865
+    second: twilight anim_7
+  - first:
+      213: 5383859451333764282
+    second: twilight anim_8
+  - first:
+      213: 9204006329087642775
+    second: twilight anim_9
+  - first:
+      213: -5911218626424431553
+    second: twilight anim_10
+  - first:
+      213: 8825283592872373392
+    second: twilight anim_11
+  - first:
+      213: 7795233993352655746
+    second: twilight anim_12
+  - first:
+      213: 159277628722115701
+    second: twilight anim_13
+  - first:
+      213: 4730702580317892503
+    second: twilight anim_14
+  - first:
+      213: 292742995428219059
+    second: twilight anim_15
+  - first:
+      213: 4638571143735803747
+    second: twilight anim_16
+  - first:
+      213: -8594352538203435778
+    second: twilight anim_17
+  - first:
+      213: -3398828236838678889
+    second: twilight anim_18
+  - first:
+      213: 8891825668917427647
+    second: twilight anim_19
+  - first:
+      213: -6256625770837462878
+    second: twilight anim_20
+  - first:
+      213: -7604539037495114263
+    second: twilight anim_21
+  - first:
+      213: 581527766436607835
+    second: twilight anim_22
+  - first:
+      213: 3260761233766551018
+    second: twilight anim_23
+  - first:
+      213: 5714576928407909487
+    second: twilight anim_24
+  - first:
+      213: 4023718828240420215
+    second: twilight anim_25
+  - first:
+      213: 1113339853049082834
+    second: twilight anim_26
+  - first:
+      213: -2631480737518910974
+    second: twilight anim_27
+  - first:
+      213: -6926228403840076927
+    second: twilight anim_28
+  - first:
+      213: -1169559692051987096
+    second: twilight anim_29
+  - first:
+      213: -8999885183845437532
+    second: twilight anim_30
+  - first:
+      213: 3603707025283896996
+    second: twilight anim_31
+  - first:
+      213: 3258494169741486503
+    second: twilight anim_32
+  - first:
+      213: 1587433432970915104
+    second: twilight anim_33
+  - first:
+      213: 8985749540165892847
+    second: twilight anim_34
+  - first:
+      213: -5520684343620807846
+    second: twilight anim_35
+  - first:
+      213: -9180392024843423775
+    second: twilight anim_36
+  - first:
+      213: 3521394300262455360
+    second: twilight anim_37
+  - first:
+      213: -6040164008398085478
+    second: twilight anim_38
+  - first:
+      213: -2211288263305871357
+    second: twilight anim_39
+  - first:
+      213: -2497258404156612593
+    second: twilight anim_40
+  - first:
+      213: -2186919655962833135
+    second: twilight anim_41
+  - first:
+      213: 7523137844557790557
+    second: twilight anim_42
+  - first:
+      213: -6523246945890744618
+    second: twilight anim_43
+  - first:
+      213: 5673152472888709580
+    second: twilight anim_44
+  - first:
+      213: 7581024211098258928
+    second: twilight anim_45
+  - first:
+      213: 6276849236074677151
+    second: twilight anim_46
+  - first:
+      213: 7716191645579334025
+    second: twilight anim_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: twilight anim_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4990
+        width: 576
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c150bcbd826e8428293a13b9fed6d7
+      internalID: -4529552741359364289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_1
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 4990
+        width: 576
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17583b028501e044ab3bed86d9b70f22
+      internalID: -6771903635455949557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_2
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 4990
+        width: 576
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732b0c3b3a3cba04c8d35c34dc436230
+      internalID: 7322284716891061610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_3
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 4990
+        width: 576
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235f7664b835f9e49a946cc0eb07a664
+      internalID: 4668514247474195748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_4
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 4990
+        width: 575
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd357b5cd021088468b8322096b022ba
+      internalID: 8756416208055193502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4435
+        width: 576
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ed5a35f42822f46bff9f71801ef09a
+      internalID: -4243740287890118705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_6
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 4435
+        width: 576
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758aa71ca6f36d64f9019e0f6dd6e1a3
+      internalID: 134765826562914270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_7
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 4435
+        width: 576
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc024a58797a8b84f94138cccd98e6a0
+      internalID: 4471612605144995865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_8
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 4435
+        width: 576
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b2c604a8697ba4f9ca714d8908bc8f
+      internalID: 5383859451333764282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_9
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 4435
+        width: 578
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b42ad0261b4d14797f8370e372b74e
+      internalID: 9204006329087642775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3880
+        width: 579
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19d6edf0d00fd44a83060f97eba7b08
+      internalID: -5911218626424431553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_11
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 3880
+        width: 578
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe2dde80c5659b43bfa8d2a04e666a5
+      internalID: 8825283592872373392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_12
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 3880
+        width: 577
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3de3ff539888d40b0cb8ab95b25b27
+      internalID: 7795233993352655746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_13
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 3880
+        width: 576
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134711e231f8dc64a83dc34a9d3e119b
+      internalID: 159277628722115701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_14
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 3880
+        width: 575
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cedfda6064848e4da425cb334c20418
+      internalID: 4730702580317892503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3326
+        width: 576
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e730c4dc1e6fe684eb1ba1c4f2ba2b32
+      internalID: 292742995428219059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_16
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 3326
+        width: 575
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc548d2a9b7ab4643b5276df44d17e0c
+      internalID: 4638571143735803747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_17
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 3326
+        width: 573
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052eb2777481ed145bb0fae052a21643
+      internalID: -8594352538203435778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_18
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 3326
+        width: 574
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64018915e0432dd4c86bf67dd95f3897
+      internalID: -3398828236838678889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_19
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 3326
+        width: 575
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73cd2e29f69df548948ec354ad9b444
+      internalID: 8891825668917427647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2772
+        width: 573
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a56453053160f4b9fbb466a9ce639c
+      internalID: -6256625770837462878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_21
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 2772
+        width: 578
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfce28f5ec6b1e344bd40ec3c2aa1ffc
+      internalID: -7604539037495114263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_22
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 2772
+        width: 579
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4086784e8ed5d3148ae525248508f083
+      internalID: 581527766436607835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_23
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 2772
+        width: 578
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0273d66874bec4eaf35cebad635284
+      internalID: 3260761233766551018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_24
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 2772
+        width: 576
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bc9049e1d54ac4c81e0efebbc3b0d0
+      internalID: 5714576928407909487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2220
+        width: 576
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee2423c0f4679945ba984da554fe714
+      internalID: 4023718828240420215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_26
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2220
+        width: 576
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c85496294758b743942461f60e81b2d
+      internalID: 1113339853049082834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_27
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2220
+        width: 576
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b4a1dda3b0c18478baab2122da4003
+      internalID: -2631480737518910974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_28
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 2220
+        width: 574
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0808a41d28898f1468bcebe0394dbb7f
+      internalID: -6926228403840076927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_29
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 2220
+        width: 576
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7d988317d62274f96c040e296319ef
+      internalID: -1169559692051987096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1665
+        width: 576
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d8c9497041e254392f719b39a72e0a
+      internalID: -8999885183845437532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_31
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1665
+        width: 576
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88a0215474642144a0e4f6dc2a18a67
+      internalID: 3603707025283896996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_32
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1665
+        width: 576
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3dd03ed406b434c93b37b2cf76b32f
+      internalID: 3258494169741486503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_33
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1665
+        width: 579
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cb9c8263434494f9ef1e0c1762d2df
+      internalID: 1587433432970915104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_34
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1665
+        width: 578
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafa74189f1c9bd4f8842101ba24fcb7
+      internalID: 8985749540165892847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1110
+        width: 579
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3452186ef648cdd4b8f16b3d1c82dc74
+      internalID: -5520684343620807846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_36
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1110
+        width: 576
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d3c8d5844a82644b12f7b674ae2738
+      internalID: -9180392024843423775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_37
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1110
+        width: 576
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c37805af69a7724fa34516a8f5bfb00
+      internalID: 3521394300262455360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_38
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1110
+        width: 576
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a809397324a27c0468d98120ef20f8e6
+      internalID: -6040164008398085478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_39
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 1110
+        width: 575
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3db52ef9126e524e811b54522a6b0f2
+      internalID: -2211288263305871357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 556
+        width: 574
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3e8c72523675e47b699920473b5122
+      internalID: -2497258404156612593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_41
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 556
+        width: 576
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b435bc90279f476419cb782c442cae49
+      internalID: -2186919655962833135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_42
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 556
+        width: 573
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48792f9f9db867419b290e87178d5c7
+      internalID: 7523137844557790557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_43
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 556
+        width: 574
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634170ed262609f4395b1894100132dd
+      internalID: -6523246945890744618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_44
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 556
+        width: 576
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcb600b2a4a240419089dc7abfaf88a
+      internalID: 5673152472888709580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 576
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f08cab2a1b1b9746bbf0efc78f0127a
+      internalID: 7581024211098258928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_46
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 2
+        width: 578
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ff83fae6c43b146b4626d78924c6dd
+      internalID: 6276849236074677151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: twilight anim_47
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 2
+        width: 579
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cf9a32c8f11804280d5df15a7415de
+      internalID: 7716191645579334025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

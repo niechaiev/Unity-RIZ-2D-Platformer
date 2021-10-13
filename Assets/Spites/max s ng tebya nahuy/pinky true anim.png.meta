@@ -1,0 +1,979 @@
+fileFormatVersion: 2
+guid: a61c367620354374f9099f6f1f4526b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2752263764837716869
+    second: pinky true anim_0
+  - first:
+      213: -1256137925680885641
+    second: pinky true anim_1
+  - first:
+      213: 8035689900046223168
+    second: pinky true anim_2
+  - first:
+      213: -875193044686336856
+    second: pinky true anim_3
+  - first:
+      213: -2221410480680113942
+    second: pinky true anim_4
+  - first:
+      213: 8467996424996145592
+    second: pinky true anim_5
+  - first:
+      213: 367229672820901212
+    second: pinky true anim_6
+  - first:
+      213: -5366403466846008063
+    second: pinky true anim_7
+  - first:
+      213: 8159530341002291142
+    second: pinky true anim_8
+  - first:
+      213: -3163604412046374593
+    second: pinky true anim_9
+  - first:
+      213: -1811892494345607020
+    second: pinky true anim_10
+  - first:
+      213: -3211056596680003450
+    second: pinky true anim_11
+  - first:
+      213: -7217278007329365977
+    second: pinky true anim_12
+  - first:
+      213: 1678900269612037787
+    second: pinky true anim_13
+  - first:
+      213: 4963478383151539128
+    second: pinky true anim_14
+  - first:
+      213: -8825746207876002340
+    second: pinky true anim_15
+  - first:
+      213: 4400731865357232449
+    second: pinky true anim_16
+  - first:
+      213: -7825634578991207520
+    second: pinky true anim_17
+  - first:
+      213: -3967986830227034738
+    second: pinky true anim_18
+  - first:
+      213: -2782438273197145363
+    second: pinky true anim_19
+  - first:
+      213: 5724312518506097159
+    second: pinky true anim_20
+  - first:
+      213: 2098002245697938163
+    second: pinky true anim_21
+  - first:
+      213: -211476759402315220
+    second: pinky true anim_22
+  - first:
+      213: 7387295415044806711
+    second: pinky true anim_23
+  - first:
+      213: -5986602898264062528
+    second: pinky true anim_24
+  - first:
+      213: -4136353195164953435
+    second: pinky true anim_25
+  - first:
+      213: -8349804023835224314
+    second: pinky true anim_26
+  - first:
+      213: 7623117493692130430
+    second: pinky true anim_27
+  - first:
+      213: 7418684297652338662
+    second: pinky true anim_28
+  - first:
+      213: 1655329855425267029
+    second: pinky true anim_29
+  - first:
+      213: 6450507028458433872
+    second: pinky true anim_30
+  - first:
+      213: 3137382699258276982
+    second: pinky true anim_31
+  - first:
+      213: -3098649906390242329
+    second: pinky true anim_32
+  - first:
+      213: 6238058299556676076
+    second: pinky true anim_33
+  - first:
+      213: 2232875218744911311
+    second: pinky true anim_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pinky true anim_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 396
+        width: 416
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8d9ebe3120aec4686448cc4ae454c7
+      internalID: 2752263764837716869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_1
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 410
+        width: 359
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c07dd6195a148b46af2859ccbb8da66
+      internalID: -1256137925680885641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_2
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 410
+        width: 324
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dcb99bb60c14241afdf8efe99add09
+      internalID: 8035689900046223168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_3
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 797
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5690ace13b602b041ab9a6ee00ca4c3b
+      internalID: -875193044686336856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_4
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 806
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41217dee47c897a4e8a262942b30c169
+      internalID: -2221410480680113942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_5
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 805
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45681985acbea1a42958aa1bdc793e00
+      internalID: 8467996424996145592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_6
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 410
+        width: 370
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f84e67a9a6f254299f5762668a593e
+      internalID: 367229672820901212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_7
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 795
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c278e1ae245de40bd1140f71ddff9c
+      internalID: -5366403466846008063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 776
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de6f2b97c09603458b716ee3870c67d
+      internalID: 8159530341002291142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_9
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 783
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb2226b432319a43b2ab4efc7f3b8a7
+      internalID: -3163604412046374593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_10
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 764
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39f479b354a426409909f46a2a8cd74
+      internalID: -1811892494345607020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_11
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 713
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1aec79f2b430e47828064d9d39c76d
+      internalID: -3211056596680003450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_12
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 410
+        width: 431
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c833c380e7c45140b826c5a60b18d43
+      internalID: -7217278007329365977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 659
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78d336c707d6ce4bbeeee0539584472
+      internalID: 1678900269612037787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_14
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 654
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d44cfef1453eaa498fd388b3b29a5cc
+      internalID: 4963478383151539128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_15
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 649
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34cb8b266ee08149991aefc03366f39
+      internalID: -8825746207876002340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_16
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 634
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d20148a360f58438955787d9212250
+      internalID: 4400731865357232449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_17
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 614
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5ed700cbee99846bd7f56a2f8f9465
+      internalID: -7825634578991207520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 600
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2ba6e67e30f5f4b959b0529031edf4
+      internalID: -3967986830227034738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_19
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 599
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc4cea084782474ebd838bcb6fabb05
+      internalID: -2782438273197145363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_20
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 560
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868cb3f7f396856458ecb30efe9a14e8
+      internalID: 5724312518506097159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 546
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0d4085edcf1e0469adbec4fa9d6979
+      internalID: 2098002245697938163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_22
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 540
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c02f10386aaa74586f74caa2b221df
+      internalID: -211476759402315220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_23
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 514
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa516fa400675d74c8b13514329e0413
+      internalID: 7387295415044806711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_24
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 534
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b9aab83668832469e7bc90232f0fb3
+      internalID: -5986602898264062528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_25
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 520
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8694089a4e5ea6d44b64c4323f54e37d
+      internalID: -4136353195164953435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_26
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 394
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2a4e097c0af23449f26dcafad6691e
+      internalID: -8349804023835224314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_27
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 3
+        width: 301
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde03901c2ca5524d82bd0bb5429014a
+      internalID: 7623117493692130430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3
+        width: 341
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f180c0004935c6488360b7e60cea59e
+      internalID: 7418684297652338662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_29
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 275
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148f38e69ee5d0342bf05bc5851970bc
+      internalID: 1655329855425267029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_30
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 3
+        width: 338
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80def18ef8358644db3b0e7f7849ac5f
+      internalID: 6450507028458433872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_31
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 3
+        width: 386
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bba8aabfb43ba429cbe1f7ef868457
+      internalID: 3137382699258276982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_32
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 260
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a182d3fb312ddce4fb6ee24eae4c957e
+      internalID: -3098649906390242329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_33
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a20ce06df2e574ea48d44d5e8e8ccb
+      internalID: 6238058299556676076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinky true anim_34
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 5
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb3a6c1b355d6e4a89922d3acb55118
+      internalID: 2232875218744911311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

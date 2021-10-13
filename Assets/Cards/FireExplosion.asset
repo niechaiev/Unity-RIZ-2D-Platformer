@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8173cc378d8e77d4abd8be38f99c026a, type: 3}
+  m_Name: FireExplosion
+  m_EditorClassIdentifier: 
+  Title: Fire Explosion
+  Description: booom
+  Classification: Fire
+  ManaCost: 5
+  damage: 9
+  radius: 2
+  sprite: {fileID: 21300004, guid: c8260d15cb31d3d49a251f7cdb4d1777, type: 3}
+  isInstant: 1
+  effect: {fileID: 139366, guid: b185c1a9cf067374586d095111b15bd1, type: 3}
